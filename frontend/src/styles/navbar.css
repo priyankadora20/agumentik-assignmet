@@ -1,0 +1,46 @@
+#navbar{
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    background-color:rgb(141, 215, 247);
+    height:90px
+}
+#navbar-a {
+    display: flex;
+
+}
+#navbar-a>div {
+    margin: 10px;
+}
+#navbar-b {
+    display: flex;
+
+}
+#navbar-b{
+  margin-left: 10%;
+}
+#navimg{
+    width:80px;
+    height: 60px;
+}
+#navbar-btn-a{
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border:  none;
+    background-color: transparent;
+    
+}
+#navbar-btn-b {
+    height: 30px;
+    margin-top: 30px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right:20px;
+    background-color: rgb(36, 115, 212);    
+    border-radius: 30px;
+    border-color: transparent;
+    color: white;
+}
